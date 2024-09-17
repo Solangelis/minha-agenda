@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "id": "9890",
+      "name": "Clara",
+      "email": "clara123@email.com",
+      "phone": "11-09988-8883"
+    },
+    {
+      "id": "a77c",
+      "name": "Mario ",
+      "email": "mario4@email.com",
+      "phone": "22-68363-5353"
+    },
+    {
+      "id": "566b",
+      "name": "Sali",
+      "email": "sali768@email.com",
+      "phone": "33-93746-4548"
+    },
+    {
+      "id": "62cc",
+      "name": "Vanesa",
+      "email": "vanesa987@email.com",
+      "phone": "22-34432-5533"
+    }
+  ]
+}
